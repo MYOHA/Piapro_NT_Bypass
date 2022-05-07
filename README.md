@@ -19,7 +19,9 @@ Download [MYOHA_PIAPRO_NT_BYPASS.exe](https://github.com/MYOHA/Piapro_NT_Bypass/
 - This is a required course when you first run Piapro Studio NT
 
 ## Announcement
-
+- **Share the Github link when you share**
 - Can be detected by an anti-virus
 - Update script when new NT Voice is released
 - Update for Piapro Studio NT is not supported
+
+
