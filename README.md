@@ -5,7 +5,7 @@
 # How to use
 
 
-## 1. Install [Piapro_NT_Bypass.exe](https://github.com/MYOHA/Piapro_NT_Bypass/releases/download/Release/MYOHA_PIAPRO_NT_BYPASS_1.exe)
+## 1. Download [Piapro_NT_Bypass.exe](https://github.com/MYOHA/Piapro_NT_Bypass/releases/download/Release/MYOHA_PIAPRO_NT_BYPASS_1.exe)
 
 Download [MYOHA_PIAPRO_NT_BYPASS.exe](https://github.com/MYOHA/Piapro_NT_Bypass/releases/download/Release/MYOHA_PIAPRO_NT_BYPASS_1.exe)
 
