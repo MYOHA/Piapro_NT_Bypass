@@ -5,18 +5,14 @@
 # How to use
 
 
-## 1. Download [Piapro_NT_Bypass.exe](https://github.com/MYOHA/Piapro_NT_Bypass/releases/download/Release/MYOHA_PIAPRO_NT_BYPASS_1.exe)
+## 1. Download [Piapro_NT_Bypass.exe](https://github.com/MYOHA/Piapro_NT_Bypass/releases/download/Release2/MYOHA_PIAPRO_NT_BYPASS_2.exe)
 
-Download [MYOHA_PIAPRO_NT_BYPASS.exe](https://github.com/MYOHA/Piapro_NT_Bypass/releases/download/Release/MYOHA_PIAPRO_NT_BYPASS_1.exe)
+Download [MYOHA_PIAPRO_NT_BYPASS.exe](https://github.com/MYOHA/Piapro_NT_Bypass/releases/download/Release2/MYOHA_PIAPRO_NT_BYPASS_2.exe)
 
 ## 2. Run Piapro_NT_Bypass.exe
 
-- Select **1. Install mitmproxy** to install mitmproxy on your PC
-- Select **2. Run mitmproxy and connect proxy** to run mitmproxy
-- The [license.sonicwire.com](https://license.sonicwire.com) page opens, **displaying the SONICWIRE account**
-- Login to Piapro Studio NT with your browser ID and password
-- Once you have activated Piapro Studio NT, press Enter to exit Piapro Studio NT
-- This is a required course when you first run Piapro Studio NT
+- **1. Install mitmproxy** to install mitmproxy on your PC
+- **2. Connect Bypass Proxy**
 
 ## Announcement
 - **Share the Github link when you share**
