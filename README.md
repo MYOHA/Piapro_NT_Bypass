@@ -1,14 +1,14 @@
 # Welcome to Piapro_NT_Bypass
 Piapro_NT_Bypass is a program that **bypasses Sonicwire purchase authentication from a local server**
 
-**mitmproxy installer is included**, so the size is large
+**mitmproxy installer,  is included**, so the size is large
 
 # How to use
 
 
-## Download [Piapro_NT_Bypass.exe](https://github.com/MYOHA/Piapro_NT_Bypass/releases/download/Release2/MYOHA_PIAPRO_NT_BYPASS_2.exe)
+## Download [Piapro_NT_Bypass.exe](https://github.com/MYOHA/Piapro_NT_Bypass/releases/download/Release3/MYOHA_Piapro_NT_protected.exe)
 
-Download [MYOHA_PIAPRO_NT_BYPASS.exe](https://github.com/MYOHA/Piapro_NT_Bypass/releases/download/Release2/MYOHA_PIAPRO_NT_BYPASS_2.exe)
+Download [MYOHA_PIAPRO_NT_BYPASS.exe](https://github.com/MYOHA/Piapro_NT_Bypass/releases/download/Release3/MYOHA_Piapro_NT_protected.exe)
 
 ## Run Piapro_NT_Bypass.exe
 
