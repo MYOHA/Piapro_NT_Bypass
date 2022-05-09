@@ -3,6 +3,10 @@ Piapro_NT_Bypass is a program that **bypasses Sonicwire purchase authentication 
 
 **mitmproxy installer,  is included**, so the size is large
 
+
+<h3>NEW UPDATE - https://github.com/MYOHA/Piapro_NT_Bypass/releases/tag/Release3</h3>
+
+
 # How to use
 
 
