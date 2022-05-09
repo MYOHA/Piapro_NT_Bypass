@@ -13,6 +13,8 @@ Download [MYOHA_PIAPRO_NT_BYPASS.exe](https://github.com/MYOHA/Piapro_NT_Bypass/
 
 - **1. Install mitmproxy** to install mitmproxy on your PC
 - **2. Connect Bypass Proxy**
+- Please follow the program instructions
+- When activation is over, press **2. Disconnect Proxy**
 
 ## Announcement
 - **Share the Github link when you share**
