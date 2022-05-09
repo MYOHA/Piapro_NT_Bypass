@@ -22,7 +22,8 @@ delete `%userprofile%/Appdata/local/Crypton/CPM/CPMLocalData`
 
 # Announcement
 - **Share the Github link when you share**
-- Can be detected by an anti-virus
+- **Fiddler** can affect Piapro NT Bypass operation
+- Can be detected by an **anti-virus**
 - Update script when new NT Voice is released
 - Update for Piapro Studio NT is not supported
 
