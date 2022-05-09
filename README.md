@@ -1,6 +1,7 @@
 # Welcome to Piapro_NT_Bypass
-**Piapro_NT_Bypass** is a program that **bypasses** Piapro Studio NT **purchase authentication**
+Piapro_NT_Bypass is a program that **bypasses Sonicwire purchase authentication from a local server**
 
+**mitmproxy installer is included**, so the size is large
 
 # How to use
 
