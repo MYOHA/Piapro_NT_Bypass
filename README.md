@@ -18,7 +18,7 @@ Download [MYOHA_PIAPRO_NT_BYPASS.exe](https://github.com/MYOHA/Piapro_NT_Bypass/
 - When activation is over, press **2. Disconnect Proxy**
 
 ## How to logout of Piapro Studio NT
-delete `C:\Users\__Username__\AppData\Local\Crypton\CPM\CPMLocalData`
+delete `%userprofile%/Appdata/local/Crypton/CPM/CPMLocalData`
 
 # Announcement
 - **Share the Github link when you share**
